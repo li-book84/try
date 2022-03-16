@@ -1,0 +1,60 @@
+.buttons{
+    background: #444444;
+    display: flex;
+    user-select: none;
+    border: #ffffff 1px solid;
+}
+
+.txtdec1{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.btn1{
+    background: #252525;
+    width: 33%;
+    padding: 1% 1% 1% 1%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn1:hover{
+    background: #444444;
+    color: #ffffff;
+}
+
+.txtdec2{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.btn2{
+    background: #252525;
+    width: 33%;
+    padding: 1% 1% 1% 1%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn2:hover{
+    background: #444444;
+    color: #ffffff;
+}
+
+.txtdec3{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.btn3{
+    background: #252525;
+    width: 33%;
+    padding: 1% 1% 1% 1%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.btn3:hover{
+    background: #444444;
+    color: #ffffff;
+}

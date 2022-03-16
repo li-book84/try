@@ -1,0 +1,36 @@
+.main{
+    color: #ffffff;
+}
+.body{
+    background: #252525;
+    color: #ffffff;
+}
+
+.heading{
+    text-align: center;
+    font-size: 150%;
+    padding: 1% 1% 1% 1%;
+}
+
+.search-box{
+    width: 100%;
+
+}
+
+.search-bar{
+    margin: 1% auto;
+    display: block;
+    padding: 1% 1% 1% 1%;
+    border-radius: 4px;
+    width: 40%;
+    border-inline: 5px;
+    outline: 0px #ffffff solid;
+}
+
+.questions{
+    margin: 5% 10% 0 10%;
+}
+
+.links{
+    color: #ffffff;
+}

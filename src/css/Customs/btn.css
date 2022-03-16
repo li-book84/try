@@ -1,0 +1,12 @@
+.btns{
+    background: #474444;
+    padding: 2% 2% 2% 2%;
+    color: #fff3ff;
+    text-decoration: none;
+    border: #383535 1px solid;
+    border-radius: 4px;
+}
+
+.btns:hover{
+    background: #383535;
+}

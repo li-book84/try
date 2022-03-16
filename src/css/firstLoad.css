@@ -1,0 +1,81 @@
+.main-box{
+    margin: 1% 1% 1% 1%;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 20%;
+}
+
+.sub-box{
+    width: 22.8%;
+    padding: 1% 1% 1% 1%;
+    background: #252525;
+    border-radius: 4px;
+    text-align: justify;
+    border: #ffffff 1px solid;
+}
+
+.image{
+    width: 100%;
+    height: 100%;
+}
+
+.figure{
+    display: table;
+    padding: 0 10% 0 10%;
+}
+
+.figcaption{
+    display: table-caption;
+    caption-side: top;
+    text-align: center;
+    color: #ffffff;
+}
+
+.project-type{
+    text-align: center;
+    color: #26e914;
+}
+
+.shorttag{
+    text-align: center;
+}
+
+@media screen and (max-width:1021px){
+    .sub-box{
+        width: 31%;
+        padding: 1% 1% 1% 1%;
+        background: #252525;
+        border-radius: 4px;
+        text-align: justify;
+    }
+}
+
+@media screen and (max-width:616px){
+    .sub-box{
+        width: 47.4%;
+        padding: 1% 1% 1% 1%;
+        background: #252525;
+        border-radius: 4px;
+        text-align: justify;
+    }
+
+    .figcaption{
+        font-size: 110%;
+    }
+}
+
+@media screen and (max-width:480px){
+    .sub-box{
+        width: 47.2%;
+        padding: 1% 1% 1% 1%;
+        background: #252525;
+        border-radius: 4px;
+        text-align: justify;
+    }
+
+    .figcaption{
+        font-size: 110%;
+    }
+}

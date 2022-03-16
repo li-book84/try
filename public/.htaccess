@@ -1,0 +1,5 @@
+ErrorDocument 401 '/projects'
+ErrorDocument 402 '/projects'
+ErrorDocument 403 '/projects'
+ErrorDocument 404 '/projects'
+ErrorDocument 405 '/projects'

@@ -1,0 +1,94 @@
+.frame{
+    background: #252525;
+    color: #ffffff;
+    margin: 2% 30% 2% 30%;
+    padding: 1% 5% 1% 5%;
+    border-radius: 4px 4px 4px 4px;
+}
+
+.user{
+    margin-bottom: 1%;
+}
+
+.title{
+    background: #303233;
+    cursor: default;
+    margin: 0 35% 0 35%;
+    padding: 2% 2% 2% 2%;
+    border-radius: 4px 4px 4px 4px;
+    user-select: none;
+    text-align: center;
+    position: relative;
+    top: -30px;
+}
+
+.subFrame{
+    text-align: center;
+}
+
+.btnLogin{
+    background: #22c2f2;
+    cursor: pointer;
+    margin: 2% 35% 0 35%;
+    padding: 2% 2% 2% 2%;
+    border-radius: 4px 4px 4px 4px;
+    user-select: none;
+}
+
+.text{
+    width: 98%;
+    padding: 2% 2% 2% 2%;
+    border: #252525 2px solid;
+    border-radius: 4px 4px 4px 4px;
+    outline: none;
+    font-size: 102%;
+}
+
+.btn{
+    cursor: pointer;
+    user-select: none;
+}
+
+@media screen and (max-width:480px) {
+    .frame{
+        background: #252525;
+        color: #ffffff;
+        margin: 10% 5% 10% 5%;
+        padding: 1% 5% 1% 5%;
+        border-radius: 4px 4px 4px 4px;
+    }
+    
+    .user{
+        margin-bottom: 1%;
+    }
+    
+    .title{
+        background: #303233;
+        cursor: default;
+        margin: 0 25% 0 25%;
+        padding: 2% 2% 2% 2%;
+        border-radius: 4px 4px 4px 4px;
+        user-select: none;
+        text-align: center;
+        position: relative;
+        top: -20px;
+    }
+    
+    .btnLogin{
+        background: #22c2f2;
+        cursor: pointer;
+        margin: 2% 35% 0 35%;
+        padding: 2% 2% 2% 2%;
+        border-radius: 4px 4px 4px 4px;
+        user-select: none;
+    }
+    
+    .text{
+        width: 98%;
+        padding: 2% 2% 2% 2%;
+        border: #252525 2px solid;
+        border-radius: 4px 4px 4px 4px;
+        outline: none;
+        font-size: 102%;
+    }
+}
