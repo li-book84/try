@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/try/static/css/main.eee3654d.css",
+    "main.js": "/try/static/js/main.1de2d0d4.js",
+    "static/js/787.7eaa9fe6.chunk.js": "/try/static/js/787.7eaa9fe6.chunk.js",
+    "static/media/project03.png": "/try/static/media/project03.998fee97bb609d3525a4.png",
+    "static/media/project01.png": "/try/static/media/project01.3c82088209e462467c73.png",
+    "static/media/project02.png": "/try/static/media/project02.fc9f1037668d2717176e.png",
+    "static/media/project04.png": "/try/static/media/project04.69479e81301a756161ce.png",
+    "static/media/pinterest.svg": "/try/static/media/pinterest.a088ccabd904231b4b9a8f183500eaa4.svg",
+    "static/media/twitter.svg": "/try/static/media/twitter.898d947691f46d15a88bfafe1b13a5a5.svg",
+    "static/media/instagram.svg": "/try/static/media/instagram.e5f91a574b0887713b4c81e5be56c1f8.svg",
+    "static/media/linkedin.svg": "/try/static/media/linkedin.d09d64fe30b941c2d5dba4695179f496.svg",
+    "static/media/youtube.svg": "/try/static/media/youtube.4d291f4181cea6ef7aad777923e65c73.svg",
+    "static/media/fb.svg": "/try/static/media/fb.145b70d3ebc4c999f7ddfbb7449fa5f9.svg",
+    "static/media/github.svg": "/try/static/media/github.fc0ffe042a9582d2a394e1c609baa9f2.svg",
+    "index.html": "/try/index.html",
+    "main.eee3654d.css.map": "/try/static/css/main.eee3654d.css.map",
+    "main.1de2d0d4.js.map": "/try/static/js/main.1de2d0d4.js.map",
+    "787.7eaa9fe6.chunk.js.map": "/try/static/js/787.7eaa9fe6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee3654d.css",
+    "static/js/main.1de2d0d4.js"
+  ]
+}
